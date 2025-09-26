@@ -17,6 +17,11 @@ export interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElemen
     color?: string;
     background?: string;
     spinnerPosition?: SpinnerPosition;
+    active?: boolean;
+    toggle?: boolean;
+    autoFocus?: boolean;
+    focused?: boolean;
+    onActiveChange?: (active: boolean) => void;
 }
 declare const Button: React.FC<ButtonProps>;
 export default Button;

@@ -1,6 +1,6 @@
 {
-  "name": "win7-button",
-  "version": "1.0.0",
+  "name": "react-win7-button",
+  "version": "1.1.0",
   "description": "A Windows 7 styled React button component with spinner and variants.",
   "main": "build/index.js",
   "module": "build/index.esm.js",
@@ -20,9 +20,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/delpikye-v/win7-button.git"
+    "url": "https://github.com/delpikye-v/react-win7-button.git"
   },
-  "homepage": "https://github.com/delpikye-v/win7-button#readme",
+  "homepage": "https://github.com/delpikye-v/react-win7-button#readme",
   "keywords": [
     "react",
     "components",
@@ -38,7 +38,7 @@
   "author": "Delpi.Kye",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/delpikye-v/win7-button/issues"
+    "url": "https://github.com/delpikye-v/react-win7-button/issues"
   },
   "peerDependencies": {
     "react": ">=17.0.0",
